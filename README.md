@@ -10,5 +10,5 @@ you need to have node js installed to start it
 
 
 ## Demo
-![](./calc-screens/1.png)
 ![](./calc-screens/2.png)
+![](./calc-screens/1.png)
